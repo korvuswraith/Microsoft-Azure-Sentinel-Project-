@@ -1,4 +1,4 @@
-#As of 03/04/2022, video creation in progress
+
 
 # Microsoft-Azure-Sentinel-Project- 
 
